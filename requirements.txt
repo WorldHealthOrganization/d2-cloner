@@ -36,7 +36,7 @@ idna==2.6
 importlib-metadata==3.4.0
 ipython-genutils==0.2.0
 jeepney==0.6.0
-Jinja2==2.10
+Jinja2==3.1.4
 jsonobject==0.9.8
 jsonschema==2.6.0
 jupyter-core==4.4.0
